@@ -18,4 +18,6 @@ The software package includes Monte-Carlo routines for the following scientific 
     - Shannon Entropy of Gaussian Spectral Data
     - 
 
-3. ) 
+3. ) Number Theory and Applications
+
+    - Prime Number Calculation
