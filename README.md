@@ -1,7 +1,7 @@
 # QMCM-Data-Science
 
-This repository contains a quantum Monte-Carlo methods software for applied data sciences, called QMCM Data Science, 
-developed in the framework of project and scientific works on quantitative and didactic data science models.
+This repository contains a quantum Monte-Carlo methods software for Applied Data Sciences, called QMCM Data Science, 
+developed in the framework of project and scientific works on quantitative and Didactic Data Science Models.
 
 The software package includes Monte-Carlo routines for the following scientific applications:
 
@@ -18,7 +18,10 @@ The software package includes Monte-Carlo routines for the following scientific 
     - Shannon Entropy of Gaussian Spectral Data
     - Monte-Carlo Price Spectrum
 
-3. ) Number Theory and Applications
+3. ) Einstein's Quantum Clock
+
+    - Calculation of the Frequency Spectrum
+    
+4. ) Number Theory and Applications
 
     - Prime Number Calculation
-
