@@ -11,6 +11,7 @@ The software package includes Monte-Carlo routines for the following scientific 
     - Phase Distributions of Real Valued Fields Modes
     - Coherence Times and Distributions of Quantum Field Correlations 
     - Chemical Potential and Distributions of the Quantum Field
+    - Superimposed Quantum Fields
 
 2. ) Spectral Data Analysis
 
