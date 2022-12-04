@@ -243,7 +243,7 @@ plt.xlabel('$Re(\Psi_0)$', fontsize = 18)
 plt.ylabel('$Im(\Psi_0)$', fontsize = 18)
 cbar = plt.colorbar()
 cbar.ax.set_ylabel('$\pi_e[Re(\Psi_0),Im(\Psi_0))]$')
-plt.savefig('/Users/AS_Scientific_Analytics/Desktop/Journal_of_Physics/bec_symmetry_breaking_github/fig_field_modes.png')
+plt.savefig('/your-installation-path/../figures/bec-symmetry-breaking/fig_field_modes.png')
 
 # Plot condensate wave field at equilibrium    
 
@@ -256,7 +256,7 @@ plt.savefig('/Users/AS_Scientific_Analytics/Desktop/Journal_of_Physics/bec_symme
 # cbar.ax.set_ylabel('$\pi_e[Re(\Psi_0),Im(\Psi_0))]$')
 # plt.xlim([-1.00, 1.00])
 # plt.ylim([-1.00, 1.00])
-# plt.savefig('/Users/AS_Scientific_Analytics/Desktop/Journal_of_Physics/bec_symmetry_breaking/fig_field_thermal.png')
+# plt.savefig('/your-installation-path/../figures/bec-symmetry-breaking/fig_field_thermal.png')
 
 # Plot non-condensate wave field propagation    
 
@@ -267,7 +267,7 @@ plt.savefig('/Users/AS_Scientific_Analytics/Desktop/Journal_of_Physics/bec_symme
 # plt.ylabel('$Im(\Psi_0)$', fontsize = 18)
 # cbar = plt.colorbar()
 # cbar.ax.set_ylabel('$\pi_e[Re(\Psi_0),Im(\Psi_0))]$')
-# plt.savefig('/Users/AS_Scientific_Analytics/Desktop/bec_symmetry_breaking_github/fig_field_propagation.png')
+# plt.savefig('/your-installation-path/../figures/bec-symmetry-breaking/fig_field_propagation.png')
 
 # Plot phase distribution    
 
@@ -277,7 +277,7 @@ plt.savefig('/Users/AS_Scientific_Analytics/Desktop/Journal_of_Physics/bec_symme
 # plt.xlabel('$Re(\Psi_0)$', fontsize = 18)
 # plt.ylabel('$\pi_e[Re(\Psi_0)]$', fontsize = 18)
 # plt.xlim([-1.00, 1.00])
-# plt.savefig('/Users/AS_Scientific_Analytics/Desktop/bec_symmetry_breaking_github/fig_distribution_real.png')
+# plt.savefig('/your-installation-path/../figures/bec-symmetry-breaking/fig_distribution_real.png')
 
 
 # Plot phase distribution    
@@ -288,7 +288,7 @@ plt.savefig('/Users/AS_Scientific_Analytics/Desktop/Journal_of_Physics/bec_symme
 # plt.xlabel('$Im(\Psi_0)$', fontsize = 18)
 # plt.ylabel('$\pi_e[Im(\Psi_0)]$', fontsize = 18)
 # plt.xlim([-1.00, 1.00])
-# plt.savefig('/Users/AS_Scientific_Analytics/Desktop/bec_symmetry_breaking_github/fig_distribution_imag.png')
+# plt.savefig('/your-installation-path/../figures/bec-symmetry-breaking/fig_distribution_imag.png')
 
 
 # Plot phase of wave field
@@ -301,7 +301,7 @@ plt.savefig('/Users/AS_Scientific_Analytics/Desktop/Journal_of_Physics/bec_symme
 # plt.xlim([0.00, 2.00])
 # plt.ylim([0.00, 2.00])
 # cbar.ax.set_ylabel('$\pi_p[\phi_0] [\pi]$')
-# plt.savefig('/Users/AS_Scientific_Analytics/Desktop/bec_symmetry_breaking_github/fig_distribution_phase.png')
+# plt.savefig('/your-installation-path/../figures/bec-symmetry-breaking/fig_distribution_phase.png')
 
 
 # Chemical potential of the condensate
@@ -313,4 +313,4 @@ plt.savefig('/Users/AS_Scientific_Analytics/Desktop/Journal_of_Physics/bec_symme
 # plt.ylabel('$Im(\mu_0)$', fontsize = 18)
 # cbar.ax.set_ylabel('$\pi_e[Re(\mu_0),Im(\mu_0)]$')
 # plt.colorbar()
-# plt.savefig('/Users/AS_Scientific_Analytics/Desktop/bec_symmetry_breaking_github/fig_distribution_chemical.png')
+# plt.savefig('/your-installation-path/../figures/bec-symmetry-breaking/fig_distribution_chemical.png')
