@@ -12,7 +12,7 @@ The software package includes Monte-Carlo routines for the following scientific 
 
 2. ) Spectral Data Analysis
 
-    - Shannon Entropy of Gaussian Spectral Data
+    - Shannon Entropy of Gaussian-Distributed Spectral Data
     - Monte-Carlo Price Spectrum
     
 3. ) Number Theory and Applications
