@@ -8,3 +8,8 @@
 - bec_time_uncertainty.py : 
 
   Refers to a routine which calculates the coherence time distribution of the BEC quantum field.  
+
+- superimposed_bec.py : 
+
+  Refers to a routine which calculates the quantum field of two superimposed BECs. 
+  
