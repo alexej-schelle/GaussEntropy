@@ -20,4 +20,3 @@ The software package includes Monte-Carlo routines for the following scientific 
     - Prime Number Calculation
 
 Main Author: Dr. A. Schelle, Lecturer @ IU International University of Applied Sciences.
-Co-Authors: ...
