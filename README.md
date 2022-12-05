@@ -1,6 +1,6 @@
 # QMCM-Data-Science
 
-This repository contains a quantum Monte-Carlo methods software for Applied Data Sciences, called QMCM Data Science, 
+This repository contains a quantum Monte-Carlo methods software (...in development...) for Applied Data Sciences, called QMCM Data Science, 
 developed in the framework of project and scientific works on quantitative and Didactic Data Science Models.
 
 The software package includes Monte-Carlo routines for the following scientific applications:
