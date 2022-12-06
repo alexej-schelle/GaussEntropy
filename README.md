@@ -3,7 +3,8 @@
 This repository is a dynamic repository for the development of a quantum Monte-Carlo methods software application in the framework
 of scientific work performed in the context of projects and scientific modelling on quantitative and didactic data science models.
 
-The software package includes Monte-Carlo routines for the following scientific applications:
+The Tutorial to the Software QMCM can be found at Medium Publications & Towards Data Science. The software package includes Monte-Carlo 
+routines for the following scientific applications:
 
 1. ) Quantum mechanics
   
