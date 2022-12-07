@@ -1,23 +1,6 @@
 # QMCM-Data-Science
 
-This repository is a dynamic repository for the development of a quantum Monte-Carlo methods software application in the framework
-of scientific work performed in the context of projects and scientific modelling on quantitative and didactic data science models.
+This repository contains a Python method to determine the loss of information from dimensionality reduction in Gaussian-distributed spectral data. 
 
-The Tutorial to the Software QMCM can be found at Medium Publications & Towards Data Science. The software package includes Monte-Carlo 
-routines for the following scientific applications:
+To estiamte the relative loss of information, the Shannon entropy is used as a measure in order to calculate the deviations of the total entropy to the sum of entropies in an ensemble of particle with five different frequnency components.   
 
-1. ) Quantum mechanics
-  
-    - Bose-Einstein condensation
-    - Einstein's Quantum Clock
-
-2. ) Spectral Data Analysis
-
-    - Shannon Entropy of Gaussian-Distributed Spectral Data
-    - Monte-Carlo Price Spectrum
-    
-3. ) Number Theory and Applications
-
-    - Prime Number Calculation
-
-Main Author: Dr. A. Schelle, Lecturer @ IU International University of Applied Sciences.
