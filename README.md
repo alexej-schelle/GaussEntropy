@@ -11,8 +11,8 @@ bachelor- or master thesis (e. g. at the IU International University of Applied 
 
 For applications and proposals, or interests in the Python source code of the corresponding Gaussian Information Model, please contact :
 
-Dr. A. Schelle, Freelancer Lecturer @ IU International University of Applied Sciences
+    Dr. A. Schelle, Freelancer Lecturer @ IU International University of Applied Sciences
+    
+        or 
 
-    or 
-
-Dr. Hannes Lüling, CEO @ hema.to GmbH, Ainmiller Str. 22, 80801 Munich.
+    Dr. Hannes Lüling, CEO @ hema.to GmbH, Ainmiller Str. 22, 80801 Munich.
