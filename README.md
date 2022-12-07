@@ -13,6 +13,6 @@ For applications and proposals, or interests in the Python source code of the co
 
 Dr. A. Schelle, Freelancer Lecturer @ IU International University of Applied Sciences
 
-# or 
+    or 
 
 Dr. Hannes Lüling, CEO @ hema.to GmbH, Ainmiller Str. 22, 80801 Munich.
