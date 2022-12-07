@@ -1,4 +1,4 @@
-# QMCM-Data-Science
+# Information-Loss-in-Gaussian-Spectral-Data
 
 This repository contains a Python method to determine the loss of information from dimensionality reduction in Gaussian-distributed spectral data. 
 
