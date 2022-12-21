@@ -12,7 +12,7 @@ If you are interested in the Python source code of the corresponding Gaussian in
     Dr. Hannes Lüling, CEO @ hema.to GmbH, Ainmiller Str. 22, 80801 Munich (E-Mail: hannes@hema.to).
 
 Currently, I am also interested in extending the analysis to the general case of non-Gaussian random spectral data in 
-arbitrary dimensions from N = 2 to N = 10.
+arbitrary dimensions from N = 2 to N = 10. For collaborations, please contact alexej.schelle.ext@iu.org.
 
 With best regards,
 
