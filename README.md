@@ -11,8 +11,8 @@ If you are interested in the Python source code of the corresponding Gaussian in
     Dr. A. Schelle, Freelancer Lecturer @ IU International University of Applied Sciences (E-Mail: alexej.schelle.ext@iu.org), or        
     Dr. Hannes Lüling, CEO @ hema.to GmbH, Ainmiller Str. 22, 80801 Munich (E-Mail: hannes@hema.to).
 
-Currently, I am also interested in extending the analysis to the general case of generally distributed random spectral data in 
-arbitrary dimensions from N = 2 to N = 10. For collaborations, please contact alexej.schelle.ext@iu.org.
+In future, I am also interested in extending the presented analysis to the general case of generally distributed random spectral data in 
+arbitrary dimensions from N = 2 to N = 10. For collaborations and scholary projects, please contact alexej.schelle.ext@iu.org.
 
 With best regards,
 
