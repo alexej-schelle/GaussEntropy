@@ -3,7 +3,7 @@
 This repository contains a summary of a Python method to determine the loss of information from dimensionality reduction in Gaussian-distributed 
 spectral data, as described in Whitepaper_hemato_09122022.pdf. 
 
-In order to estimate the relative loss of information, the 5D Shannon Entropy from Gaussian-distributed spectral data is calculated in this primary study (@hema.to GmbH) on information loss from dimensionality reduction as a quantitative measure in order to calculate the deviations of the total 
+In order to estimate the relative loss of information, the 5D Shannon Entropy from Gaussian-distributed spectral data is calculated in this primary study (@hema.to GmbH) on information loss from dimensionality reduction as a quantitative measure in order to calculate and compare the deviations of the total 
 entropy to the sum of entropies in an ensemble of particles emitting five different frequency components.  
 
 If you are interested in the Python source code of the corresponding Gaussian information model, please contact :
