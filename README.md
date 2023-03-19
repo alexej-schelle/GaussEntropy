@@ -13,5 +13,5 @@ If you are interested in the Python source code of the corresponding Gaussian in
 
 Currently, I am also interested in extending the presented analysis to the general case of randomly distributed spectral FCS data at finite temperature in arbitrary dimensions from N = 2 to N = 10. For collaborations and scholary projects, please simply contact me at alexej.schelle.ext@iu.org.
 
-With best regards,
+With best regards,\\
 Alexej.
